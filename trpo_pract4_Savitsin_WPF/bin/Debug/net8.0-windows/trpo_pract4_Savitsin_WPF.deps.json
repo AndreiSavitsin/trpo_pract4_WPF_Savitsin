@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "trpo_pract4_Savitsin_WPF/1.0.0": {
+        "runtime": {
+          "trpo_pract4_Savitsin_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trpo_pract4_Savitsin_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

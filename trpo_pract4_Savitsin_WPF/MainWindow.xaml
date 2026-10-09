@@ -1,0 +1,86 @@
+﻿<Window x:Class="trpo_pract4_Savitsin_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:trpo_pract4_Savitsin_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <local:Document x:Key="CurrentDoc"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <StackPanel>
+            <Label Content="ID"/>
+            <Label Content="Название файла"/>
+            <Label Content="Количество страниц"/>
+            <Label Content="Количество копий"/>
+            <Label Content="Стоимость страницы"/>
+            <Label Content="Стоимость печати"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1">
+            <TextBlock Margin="5" Text="{Binding Id}"/>
+            <TextBlock Margin="5" Text="{Binding Name}"/>
+            <TextBlock Margin="5" Text="{Binding CountPage}"/>
+            <TextBlock Margin="5" Text="{Binding CountCopies}"/>
+            <TextBlock Margin="5" Text="{Binding PricePage}"/>
+            <TextBlock Margin="5" Text="{Binding PricePrint}"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="2" Grid.Row="0" Grid.RowSpan="4">
+            
+            <TextBlock Text="Идентификатор:"/>
+            <TextBlock Text="{Binding Id}"/>
+
+            <TextBlock Text="Имя:"/>
+            <TextBlock Text="{Binding Name}"/>
+
+            <TextBlock Text="Количество страниц:"/>
+            <TextBlock Text="{Binding CountPage}"/>
+
+            <TextBlock Text="Количество копий:"/>
+            <TextBlock Text="{Binding CountCopies}"/>
+
+            <TextBlock Text="Стоимость страницы:"/>
+            <TextBlock Text="{Binding PricePage}"/>
+
+            <TextBlock Text="Стоимость печати:"/>
+            <TextBlock Text="{Binding PricePrint}"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Grid.Row="1">
+            <Button Margin="5" x:Name="btnSave" Content="Сохранить" Height="30" Width="100" Click="btnSave_Click"/>
+            <Button Margin="5" x:Name="btnNewRecord" Content="Новая запись" Height="30" Width="100" Click="btnNewRecord_Click"/>
+            <Button Margin="5" x:Name="btnFindByID" Content="Поиск по ID" Height="30" Width="100" Click="btnFindByID_Click"/>
+            <Button Margin="5" x:Name="btnSearch" Content="Найти" Height="30" Width="100" Click="btnSearch_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Column="0" Grid.Row="1">
+            
+            <Label Content="Введите название файла"/>
+            <TextBox x:Name="txtName" Width="100" Height="30"/>
+
+            <Label Content="Введите количество страниц"/>
+            <TextBox x:Name="txtCountPage" Width="100" Height="30"/>
+
+            <Label Content="Введите количество копий"/>
+            <TextBox x:Name="txtCountCopies" Width="100" Height="30"/>
+
+            <Label Content="Введите стоимость страницы"/>
+            <TextBox x:Name="txtPricePage" Width="100" Height="30"/>
+
+        </StackPanel>
+    </Grid>
+</Window>
