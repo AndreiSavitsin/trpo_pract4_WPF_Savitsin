@@ -19,3 +19,4 @@ C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_Savitsin_WPF\trpo_p
 C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_Savitsin_WPF\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.pdb
 C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_Savitsin_WPF\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.genruntimeconfig.cache
 C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_Savitsin_WPF\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\ref\trpo_pract4_Savitsin_WPF.dll
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_Savitsin_WPF\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.sourcelink.json

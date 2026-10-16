@@ -10,11 +10,14 @@ namespace trpo_pract4_Savitsin_WPF
 {
     class Document : INotifyPropertyChanged
     {
+        Random rnd = new Random();
+
         private int id = 0;
         private string name = "Название документа";
         private int countPage = 0;
         private int countCopies = 0;
-        private int pricePage = 0;
+        private int pricePage = 0;        
+
         public int Id 
         {
             get => id;
@@ -75,19 +78,10 @@ namespace trpo_pract4_Savitsin_WPF
                 }
             }
         }
-
-        private double pricePrint = 0;
+        
         public double PricePrint
         {
-            get => pricePrint;
-            set
-            {
-                if (pricePage != value)
-                {
-                    pricePrint = CountPage * PricePage * CountCopies;
-                    OnPropertyChanged();
-                }
-            }
+            get => CountPage * PricePage * CountCopies;            
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
