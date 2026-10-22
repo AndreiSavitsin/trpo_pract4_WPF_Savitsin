@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
+using System.IO;
 using System.Linq;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -51,6 +52,7 @@ namespace trpo_pract4_Savitsin_WPF
                 {
                     countPage = value;
                     OnPropertyChanged();
+                    OnPropertyChanged(nameof(PricePrint));
                 }
             }
         }
@@ -63,6 +65,7 @@ namespace trpo_pract4_Savitsin_WPF
                 {
                     countCopies = value;
                     OnPropertyChanged();
+                    OnPropertyChanged(nameof(PricePrint));
                 }
             }
         }
@@ -75,13 +78,14 @@ namespace trpo_pract4_Savitsin_WPF
                 {
                     pricePage = value;
                     OnPropertyChanged();
+                    OnPropertyChanged(nameof(PricePrint));
                 }
             }
         }
         
         public double PricePrint
         {
-            get => CountPage * PricePage * CountCopies;            
+            get => CountPage * PricePage * CountCopies;    
         }
 
         public event PropertyChangedEventHandler? PropertyChanged;
@@ -89,6 +93,15 @@ namespace trpo_pract4_Savitsin_WPF
         protected void OnPropertyChanged([CallerMemberName] string? propName = null)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propName));
+        }
+
+        public void GenerateNewId()
+        {
+            do
+            {
+                Id = rnd.Next(1, 100000);
+            }
+            while (File.Exists(Id + ".json"));
         }
     }
 }

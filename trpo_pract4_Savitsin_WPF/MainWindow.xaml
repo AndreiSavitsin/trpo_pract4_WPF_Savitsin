@@ -54,21 +54,22 @@
         <StackPanel Grid.Column="0" Grid.Row="1">
             <Button Margin="5" x:Name="btnSave" Content="Сохранить" Height="30" Width="100" Click="btnSave_Click"/>
             <Button Margin="5" x:Name="btnNewRecord" Content="Новая запись" Height="30" Width="100" Click="btnNewRecord_Click"/>
-            <Button Margin="5" x:Name="btnFindByID" Content="Поиск по ID" Height="30" Width="100" Click="btnFindByID_Click"/>
+            <TextBlock Margin="5" Height="20" Text="Введите ID" Width="100"/>
+            <TextBox Margin="5" x:Name="txtSearchID" Height="30" Width="100"/>
             <Button Margin="5" x:Name="btnSearch" Content="Найти" Height="30" Width="100" Click="btnSearch_Click"/>
         </StackPanel>
 
         <StackPanel Grid.Column="1" Grid.Row="0">
-            
-            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtId" Text="{Binding Id}" Width="150" Height="20"/>
 
-            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtName" Text="{Binding Name}" Width="150" Height="20"/>
+            <TextBox IsReadOnly="True" HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtId" Text="{Binding Id, Mode=OneWay}" Width="150" Height="20"/>
 
-            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtCountPage" Text="{Binding CountPage}" Width="150" Height="20"/>
-            
-            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtCountCopies" Text="{Binding CountCopies}" Width="150" Height="20"/>
-          
-            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtPricePage" Text="{Binding PricePage}" Width="150" Height="20"/>
+            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtName" Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Width="150" Height="20"/>
+
+            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtCountPage" Text="{Binding CountPage, UpdateSourceTrigger=PropertyChanged}" Width="150" Height="20"/>
+
+            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtCountCopies" Text="{Binding CountCopies, UpdateSourceTrigger=PropertyChanged}" Width="150" Height="20"/>
+
+            <TextBox HorizontalAlignment="Left" Margin="10, 5, 0, 0" x:Name="txtPricePage" Text="{Binding PricePage, UpdateSourceTrigger=PropertyChanged}" Width="150" Height="20"/>
 
         </StackPanel>
     </Grid>
