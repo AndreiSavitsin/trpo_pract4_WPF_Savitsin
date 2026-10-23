@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Program Files (x86)\projects\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\
 trpo_pract4_Savitsin_WPF
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Program Files (x86)\projects\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\App.xaml
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\App.xaml
 11407045341
 
 51666627035
-198986609145
+198155382431
 MainWindow.xaml;
 
 False

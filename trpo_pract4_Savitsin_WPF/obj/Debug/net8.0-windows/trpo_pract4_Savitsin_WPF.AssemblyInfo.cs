@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trpo_pract4_Savitsin_WPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54eb88a73748c6e7256e391f5ed4713d7c4f164e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21eaf2f4a89cad9247b06b4f63ad21b792fa60bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("trpo_pract4_Savitsin_WPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trpo_pract4_Savitsin_WPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

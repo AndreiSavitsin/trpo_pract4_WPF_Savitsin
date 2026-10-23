@@ -6,9 +6,6 @@
         xmlns:local="clr-namespace:trpo_pract4_Savitsin_WPF"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Window.Resources>
-        <local:Document x:Key="CurrentDoc"/>
-    </Window.Resources>
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="200"/>

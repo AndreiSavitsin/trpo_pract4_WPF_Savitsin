@@ -42,3 +42,25 @@ C:\Program Files (x86)\projects\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsi
 C:\Program Files (x86)\projects\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.pdb
 C:\Program Files (x86)\projects\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.genruntimeconfig.cache
 C:\Program Files (x86)\projects\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\ref\trpo_pract4_Savitsin_WPF.dll
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\bin\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.exe
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\bin\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.deps.json
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\bin\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.runtimeconfig.json
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\bin\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.dll
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\bin\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.pdb
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF_MarkupCompile.cache
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF_MarkupCompile.lref
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.g.resources
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.AssemblyInfoInputs.cache
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.AssemblyInfo.cs
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.csproj.CoreCompileInputs.cache
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.sourcelink.json
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.dll
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\refint\trpo_pract4_Savitsin_WPF.dll
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.pdb
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\trpo_pract4_Savitsin_WPF.genruntimeconfig.cache
+C:\Users\st310-02\Desktop\Савицин ПР-31\trpo_pract4_WPF_Savitsin\trpo_pract4_WPF_Savitsin\trpo_pract4_Savitsin_WPF\obj\Debug\net8.0-windows\ref\trpo_pract4_Savitsin_WPF.dll
